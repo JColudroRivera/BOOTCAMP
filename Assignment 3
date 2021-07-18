@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<h1 style="text-align: center;"><strong>Assignment Number 3</strong></h1>
+<br>
+<table style="height: 169px; width: 100%; border-collapse: collapse; border-color: blue; background-color: yellow;" border="1">
+<tbody>
+<tr style="height: 169px;">
+<td style="width: 10%; height: 169px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/JColudroRivera/BOOTCAMP/main/77A79EB2-3CA8-49AB-B911-A802D2AFF8A0.jpeg" alt="Flowers" width="78" height="78" /></td>
+<td style="width: 10%; height: 169px;">
+<p style="text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/JColudroRivera/BOOTCAMP/main/E73F2916-57BA-4B89-BD61-9A5C092E7598.jpeg" alt="Quote" width="150" height="150" /></p>
+<p style="text-align: center;"><strong>Absolutely no coding experience!</strong></p>
+</td>
+<td style="width: 10%; height: 169px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/JColudroRivera/BOOTCAMP/main/62D495E8-6CA3-4F9F-9070-9B098763E5B0.jpeg" alt="Boardwalk" width="88" height="88" /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="width: 100%; border-collapse: collapse; border-style: dotted; border-color: red; background-color: gray;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/JColudroRivera/BOOTCAMP/main/77A79EB2-3CA8-49AB-B911-A802D2AFF8A0.jpeg" alt="Flowers" width="143" height="143" /></td>
+<td style="width: 33.3333%;">
+<h1 style="text-align: center;"><strong>Absolutely no coding experience!</strong></h1>
+<ol>
+<li><span style="background-color: #ff6600;"><strong><em>There's no crying in coding</em></strong></span></li>
+<li><span style="color: #00ff00;"><em>Having trouble trying to figure out how to publish my work.</em></span></li>
+<li><em>Still trying to figure out <span style="text-decoration: underline;">Atom</span> and <span style="text-decoration: underline;">Github</span>.</em></li>
+<li><strong><em>Not giving up on any of it.</em></span></strong></li>
+<li><strong><span style="color: #0000ff;"><em><table>
+
+</table>here are so many resources out there like <a href="https://www.codecademy.com/">Code Academy</a> https://www.codecademy.com/</em></span></strong></li>
+</ol>
+</td>
+<td style="width: 33.3333%;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/JColudroRivera/BOOTCAMP/main/62D495E8-6CA3-4F9F-9070-9B098763E5B0.jpeg" alt="Boardwalk" width="122" height="122" /></td>
+</tr>
+</tbody>
+</table>
+</html
+<p style="text-align: center;">&nbsp;</p>
