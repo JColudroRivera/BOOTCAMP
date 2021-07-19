@@ -1,2 +1,2 @@
 # BOOTCAMP
-BOOTCAMP FILES from the CUNY bootcamp
+https://BOOTCAMP
