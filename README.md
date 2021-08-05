@@ -1,2 +1,2 @@
 # BOOTCAMP
-https://JColudroRivera/BOOTCAMP.github.io
+https://JColudroRivera.github.io
